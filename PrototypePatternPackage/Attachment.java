@@ -1,7 +1,7 @@
 package PrototypePatternPackage;
 
 /**
- * 附件类.
+ * 附件类
  */
 public class Attachment {
     public void dowload(){
