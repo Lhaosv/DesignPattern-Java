@@ -1,6 +1,8 @@
 package ResponsibilityPatternPackage;
 /*
 具体处理者GeneraManager（总经理类）
+Manager类是具体处理者，他是抽象处理者的子类，实现了在抽象处理者中定义的抽象处理方法，如果封装在请求对象request中的请假
+时间小于30天，则他可以直接处理，否则将提示相应的信息
  */
 public class GeneraManager extends Leader{
 
