@@ -1,5 +1,7 @@
 package ResponsibilityPatternPackage;
-
+/*
+客户端测试代码
+ */
 public class Client {
     public static void main(String[] args) {
         Leader objDirector,objManager,objGeneralManager;

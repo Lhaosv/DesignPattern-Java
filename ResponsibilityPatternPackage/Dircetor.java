@@ -1,5 +1,7 @@
 package ResponsibilityPatternPackage;
-
+/*
+具体处理者Dircetor（主任类）
+ */
 public class Dircetor extends Leader{
     public Dircetor(String name) {
         super(name);

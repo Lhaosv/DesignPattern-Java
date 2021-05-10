@@ -1,5 +1,7 @@
 package ResponsibilityPatternPackage;
-
+/*
+具体处理者Manager（经理类）
+ */
 public class Manager extends Leader{
 
     public Manager(String name) {

@@ -1,5 +1,7 @@
 package ResponsibilityPatternPackage;
-
+/*
+具体处理者GeneraManager（总经理类）
+ */
 public class GeneraManager extends Leader{
 
     public GeneraManager(String name) {

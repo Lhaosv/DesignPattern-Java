@@ -1,5 +1,7 @@
 package ResponsibilityPatternPackage;
-
+/*
+请求类LeaveRequest(请假条类)
+ */
 public class LeaveRequest {
     private String leaveName;
     private int leaveDays;

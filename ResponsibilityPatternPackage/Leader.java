@@ -1,5 +1,7 @@
 package ResponsibilityPatternPackage;
-
+/*
+抽象处理者Leader(领导类)
+ */
 public abstract class Leader {
     protected String name;
     protected Leader successor;
