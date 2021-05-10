@@ -1,7 +1,7 @@
 package PrototypePatternPackage;
 
 /**
- * 具体原型类
+ * 具体原型类.
  */
 public class Email implements Cloneable {
     private Attachment attachment = null;

@@ -1,7 +1,7 @@
 package PrototypePatternPackage;
 
 /**
- * 客户端测试类
+ * 客户端测试类.
  */
 public class Cilent {
     public static void main(String[] args) {
